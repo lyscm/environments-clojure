@@ -1,0 +1,16 @@
+**/pom.xml
+*jar
+**/classes/
+**/.lein-deps-sum
+**/.lein-failures
+**/.lein-env
+**/checkouts
+**/.env
+**/target
+
+**/clojure.iws
+**/clojure.ipr
+**/nbproject/private/
+**/maven-classpath
+**/maven-classpath.properties
+**/.idea/
