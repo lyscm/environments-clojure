@@ -31,9 +31,9 @@
 			"**/.vscode/**": true,
 			"env-*": true
 		},
-    		"indentRainbow.ignoreErrorLanguages": [
-    		    "clojure",
-    		]
+		"indentRainbow.ignoreErrorLanguages": [
+			"clojure",
+		]
 	},
 	"extensions": [
 		"mutantdino.resourcemonitor",
@@ -57,7 +57,8 @@
 		"betterthantomorrow.calva",
 		"avli.clojure",
 		"borkdude.clj-kondo",
-		"jamesnorton.continuum"
+		"jamesnorton.continuum",
+		"christian-kohler.path-intellisense"
 	],
 	"shutdownAction": "none",
 	"postCreateCommand": "git config --global user.email 'no-reply@lyscm.github.com' && git config --global user.name 'lyscm'"
