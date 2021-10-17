@@ -32,7 +32,7 @@
 			"env-*": true
 		},
 		"indentRainbow.ignoreErrorLanguages": [
-			"clojure",
+			"clojure"
 		]
 	},
 	"extensions": [
